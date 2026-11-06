@@ -1,0 +1,27 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and user data
+.env
+.env.*
+!.env.example
+data/*
+!data/.gitkeep
+
+# Generated outputs and temporary uploads
+output/*
+!output/.gitkeep
+data/uploads/*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Test and coverage reports
+.coverage
+htmlcov/

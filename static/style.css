@@ -1,0 +1,28 @@
+.app-nav{background:#0f4c81}
+.app-nav .navbar-brand{color:#fff}
+.app-nav .navbar-brand b{color:#f2b134}
+body{background:#f6f7f9}
+.auth-narrow{max-width:420px}
+.project-card h3,.dataset-card h3{font-size:1rem}
+.score-card .big{font-size:2rem;font-weight:700;line-height:1.1}
+.score-card .label{color:#667085;font-size:.8rem}
+.cell-clip{max-width:240px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tbl{font-size:.82rem}
+.tbl th{white-space:nowrap}
+.tag{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.72rem;color:#fff}
+.tag.error{background:#c0392b}
+.tag.warning{background:#b86b12}
+.tag.high,.tag.accepted{background:#1b8a5a}
+.tag.medium,.tag.pending{background:#b86b12}
+.tag.low,.tag.rejected{background:#667085}
+.nowrap{white-space:nowrap}
+.chart{margin:0}
+.chart-svg{width:100%;height:auto;display:block}
+.chart-bar{fill:#0f4c81}
+.chart-bar.warn{fill:#d9822b}
+.chart-label{font-size:11px;fill:#475467}
+.chart-value{font-size:11px;fill:#101828;font-weight:600}
+.chart-grid{stroke:#e4e7ec;stroke-width:1}
+.chart-line{stroke:#0f4c81;stroke-width:2}
+.chart-dot{fill:#0f4c81}
+.finding{margin-bottom:.35rem}
